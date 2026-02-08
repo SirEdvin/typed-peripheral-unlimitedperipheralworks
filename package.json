@@ -1,11 +1,11 @@
 {
     "name": "@siredvin/typed-peripheral-unlimitedperipheralworks",
-    "version": "0.2.0",
+    "version": "0.4.0",
     "description": "Typed peripheral library for UnlimitedPeripheralWorks peripherals",
     "files": [
-        "./*.ts",
+        "./*.d.ts",
         "./*.lua",
-        "./**/*.ts",
+        "./**/*.d.ts",
         "./**/*.lua"
     ],
     "publishConfig": {

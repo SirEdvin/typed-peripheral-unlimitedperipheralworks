@@ -5,6 +5,7 @@
         "lib": ["ESNext"],
         "moduleResolution": "node",
         "strict": false,
+        "declaration": true,
         "types": [
             "@jackmacwindows/lua-types/cc",
             "@siredvin/craftos-types",
